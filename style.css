@@ -1,0 +1,18 @@
+.navbar a {
+  color: white;
+}
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main h1 {
+  color: yellow;
+  font-size: 100;
+}
+
+/* #number-guess {
+  margin-left: auto;
+  margin-right: auto;
+} */
